@@ -29,13 +29,7 @@ composer require innoraft/readme-generator --dev
 
 ## ⚙️ Setup
 
-Copy the example environment file and update it with your actual credentials:
-
-```bash
-cp .env.example .env
-> These settings are used to connect to the AI summarization service.
-
----
+Copy the example environment file and update it with your actual credentials.
 
 ## ✅ Usage
 
